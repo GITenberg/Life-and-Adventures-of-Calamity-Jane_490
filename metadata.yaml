@@ -1,0 +1,32 @@
+_repo: Life-and-Adventures-of-Calamity-Jane_490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calamity Jane
+    aliases:
+    - Cannary, Martha Jane
+    - Canary, Martha
+    - Burk, Martha Cannary
+    birthdate: 1852
+    deathdate: 1903
+    gutenberg_agent_id: '262'
+    url: http://www.gutenberg.org/2009/agents/262
+    wikipedia: http://en.wikipedia.org/wiki/Calamity_Jane
+description: ''
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowgirls -- West (U.S.) -- Biography'
+- !lcsh 'Calamity Jane, 1852-1903'
+- !lcc 'F590.3'
+- !lcsh 'Women -- West (U.S.) -- Biography'
+- !lcsh 'Missouri -- History'
+- GITenberg
+title: Life and Adventures of Calamity Jane
+url: http://www.gutenberg.org/ebooks/490
